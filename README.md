@@ -1,15 +1,8 @@
-                                  News App   
-                                  
-                
-                                  -AutoLayOut
-                                  -REST API
-                                  -JSON
-                                  -TableviewController
-                                  -NavigationController
-                                  
-                                  
-                                  
-                                  
-                                  3rd Party Library:
-
-                                  Safari Service
+NewsApp
+Without Storyboard
+SingleScreen
+JSON
+TableView
+NavigationController
+Using API (news API) 
+Using Safari Service
